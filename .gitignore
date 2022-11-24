@@ -1,0 +1,8 @@
+# created by virtualenv automatically
+bin/
+build/
+lib/
+rouge_score_ar.egg-info/
+rouge_score.egg-info/
+testdata/
+__pycache__/
