@@ -1,6 +1,10 @@
 # ROUGE SCORE AR 
 
-Implementation that fixes rouge_score for arabic in huggingface
+Implementation that fixes rouge_score for arabic. Thanks to https://github.com/UBC-NLP/araT5/issues/4. 
+
+## Installation 
+
+`pip install git+https://github.com/ARBML/rouge_score_ar`
 
 ## Overview
 
