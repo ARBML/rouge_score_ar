@@ -43,7 +43,7 @@ import numpy as np
 import six
 from six.moves import map
 from six.moves import range
-from . import scoring
+from .. import scoring
 from . import tokenizers
 
 
