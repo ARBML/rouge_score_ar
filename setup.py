@@ -20,7 +20,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="rouge_score",
+    name="rouge_score_ar",
     version="0.1.2",
     author="Google LLC",
     author_email="rouge-opensource@google.com",
